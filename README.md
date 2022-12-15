@@ -86,6 +86,8 @@ Run this from the root folder at the command prompt.
 
 ## 👥 Author <a name="authors"></a>
 
+👤 **Abimbola Favour**
+
 - GitHub: [@fayob](https://github.com/fayob)
 - Twitter: [@fabimworld](https://twitter.com/Fabimworld2536)
 - LinkedIn: [@abimbola-ade](http://linkedin.com/in/abimbola-ade/)
